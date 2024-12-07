@@ -1,2 +1,2 @@
-# NYCfood
-New repo made for launching website from original repo
+# NYCfoodAccess
+p8105 final project
